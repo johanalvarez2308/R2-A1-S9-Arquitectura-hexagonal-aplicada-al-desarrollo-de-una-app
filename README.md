@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Gestor de Tareas Académicas
 
 Aplicación Java desarrollada con **Arquitectura Hexagonal (Ports & Adapters)** para gestionar tareas académicas de forma estructurada.
@@ -203,3 +204,6 @@ La arquitectura hexagonal permite agregar nuevos adaptadores sin modificar el do
 | Base de datos JDBC | `TareaRepository` con queries SQL |
 | Interfaz gráfica (JavaFX) | `TareaService` desde los controladores de vista |
 | Tests de integración | `TareaRepository` con H2 en memoria |
+=======
+# R2-A1-S9-Arquitectura-hexagonal-aplicada-al-desarrollo-de-una-app
+>>>>>>> 71ab4b67546a4b63ba22ca0178ec242bab4f695f
