@@ -1,0 +1,12 @@
+src/main/java/com/tareas/infrastructure/config/AppConfig.java
+src/main/java/com/tareas/infrastructure/adapters/out/persistence/InMemoryTareaRepository.java
+src/main/java/com/tareas/infrastructure/adapters/out/persistence/JsonFileTareaRepository.java
+src/main/java/com/tareas/infrastructure/adapters/in/cli/TareaCLI.java
+src/main/java/com/tareas/application/usecases/TareaServiceImpl.java
+src/main/java/com/tareas/Main.java
+src/main/java/com/tareas/Demo.java
+src/main/java/com/tareas/domain/model/EstadoTarea.java
+src/main/java/com/tareas/domain/model/Tarea.java
+src/main/java/com/tareas/domain/ports/TareaService.java
+src/main/java/com/tareas/domain/ports/TareaRepository.java
+src/test/java/com/tareas/TareaServiceTest.java
